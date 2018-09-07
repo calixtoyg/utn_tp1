@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1536021180 source:c:\users\alumno\desktop\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcionesSuRMDF.h"
+
+1536021003 c:\users\alumno\desktop\tp1\funcionessurmdf.h
+
+1536021003 source:c:\users\alumno\desktop\tp1\funcionessurmdf.c
+
+1536204284 source:c:\users\yasir\desktop\tp1\funcionessurmdf.c
+
+1536203446 source:c:\users\yasir\desktop\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcionesSuRMDF.h"
+
+1536021003 c:\users\yasir\desktop\tp1\funcionessurmdf.h
+
