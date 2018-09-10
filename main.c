@@ -32,15 +32,10 @@ int main() {
             resuSuma = suma(a, b);
             resuResta = resta(a, b);
             resuMulti = multi(a, b);
-            if (b != 0) {
-                resuDiv = division(a, b);
-            }
-            if (a != 0 && b != 0) {
-                resuFacA = factorial(a);
-                resuFacB = factorial(b);
+            resuDiv = division(a, b);
+            resuFacA = factorial(a);
+            resuFacB = factorial(b);
 
-            } else
-                printf("No se puede realizar un factorial sobre un numero negativo.\n");
 
         }
 
